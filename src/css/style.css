@@ -63,3 +63,24 @@ p{
     padding-top: .7rem;
     padding-bottom: 3.2rem;
 }
+.column {
+    float: left;
+  }
+  .leftie{
+    width: 60% ;
+  } 
+  .rightie {
+    width: 40%;
+    background: url('../../Assets/Hero Image.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+  }
+    
+@media screen and (max-width: 600px) {
+    .column-right {
+      width: 100%;
+    }
+    .column-left{
+        width: 100%;
+    }
+  }

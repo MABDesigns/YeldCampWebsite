@@ -11,33 +11,34 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0/css/bootstrap.min.css"/>
     <title>Yelp Camp Wesbite</title>
 </head>
-<body>
-<div class="container-fluid">
-        <div class="column leftie">   
-            <div class="container">
-                        <nav class="navbar">
-                            <a class="navbar-brand" href="#">
-                                <img src="Assets/Logo.svg" alt="logo">
-                            </a>
-                        </nav>  
-                        <div class="title"><h1>Explore the best<br>camps on Earth.</h1></div>
-                        <div class="paragraph">
-                            <p>YelpCamp is a curated list of the best camping spots on<br> Earth. Unfiltered and unbased reviews.</p>
-                        </div>
-                        <div class="list">
-                            <li><img src="Assets/Checkmark.svg" alt="check">&nbsp; &nbsp;Add your own camp suggestions.</li>
-                            <li><img src="Assets/Checkmark.svg" alt="check">&nbsp; &nbsp;Leave reviews and experiences.</li>
-                             <li><img src="Assets/Checkmark.svg" alt="check">&nbsp; &nbsp;See locations for all camps.</li>
-                        </div>
-                        <div class="button-content">
-                            <button type="button" class="btn btn-dark">View Campgrounds</button>
-                        </div>
-                        <p id="partners-text">Partenered With:<br></p>
-            </div> 
+<body>  
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 col-lg-8">
+                <nav class="navbar">
+                    <a class="navbar-brand" href="#">
+                        <img src="Assets/Logo.svg" alt="logo">
+                    </a>
+                </nav>
+                <div class="title"><h1>Explore the best<br>camps on Earth.</h1></div>
+                <div class="paragraph">
+                    <p>YelpCamp is a curated list of the best camping spots on<br> Earth. Unfiltered and unbased reviews.</p>
+                </div>
+                <div class="list">
+                    <li><img src="Assets/Checkmark.svg" alt="check">&nbsp; &nbsp;Add your own camp suggestions.</li>
+                    <li><img src="Assets/Checkmark.svg" alt="check">&nbsp; &nbsp;Leave reviews and experiences.</li>
+                    <li><img src="Assets/Checkmark.svg" alt="check">&nbsp; &nbsp;See locations for all camps.</li>
+                </div>
+                <div class="button-content">
+                    <button type="button" class="btn btn-dark">View Campgrounds</button>
+                </div>
+                <p id="partners-text">Partenered With:<br></p>
         </div>
-        <div class="column rightie"></div>   
-</div>
-
+        <div class="col-6 col-lg-4" id="imagecontent">­­­­</div>
+    </div>
+</div>            
+       
+ 
 
 
 

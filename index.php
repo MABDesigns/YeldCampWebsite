@@ -7,14 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"/>
     <link rel="stylesheet" href="src/css/style.css">
-    <link rel="stylesheet" href="src/css/normalize.css">
+    <!--<link rel="stylesheet" href="src/css/normalize.css">-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0/css/bootstrap.min.css"/>
     <title>Yelp Camp Wesbite</title>
 </head>
 <body>  
-<div class="container">
+<div class="container-fluid">
     <div class="row">
-        <div class="col-sm-6 col-lg-8">
+        <div class="col-md">
                 <nav class="navbar">
                     <a class="navbar-brand" href="#">
                         <img src="Assets/Logo.svg" alt="logo">
@@ -34,7 +34,7 @@
                 </div>
                 <p id="partners-text">Partenered With:<br></p>
         </div>
-        <div class="col-6 col-lg-4" id="imagecontent">­­­­</div>
+        <div class="col-md" id="imagecontent">test­­­­</div>
     </div>
 </div>            
        

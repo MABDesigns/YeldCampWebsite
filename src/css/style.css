@@ -64,15 +64,18 @@ p{
     padding-bottom: 3.2rem;
 }
 
-  #imagecontent{
+#imagecontent{
     background: url('../../Assets/Hero Image.jpg') !important;
     background-size: cover !important;
+    position: center center  !important;
     background-repeat: no-repeat !important;
   }
   
-@media screen and (max-width: 600px) {
-    .col{
-        width: 100% !important;
-    }
-   
+@media screen and (max-width: 768px) {
+    #imagecontent{
+        background: url('../../Assets/Hero Image (Tablet and Mobile).jpg') !important;
+        background-size:0%;
+        background-repeat: no-repeat !important;
+        height: 40vh;
+      }
   }

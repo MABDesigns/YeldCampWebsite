@@ -31,7 +31,6 @@ body{
     overflow-x: hidden;
 }
 .navbar{
-    padding-top: 2rem !important;
 }
 h1{
     font-size: 4.5rem !important;
@@ -70,7 +69,6 @@ p{
     position: center center  !important;
     background-repeat: no-repeat !important;
   }
-  
 @media screen and (max-width: 768px) {
     #imagecontent{
         background: url('../../Assets/Hero Image (Tablet and Mobile).jpg') !important;
@@ -78,4 +76,7 @@ p{
         background-repeat: no-repeat !important;
         height: 40vh;
       }
+  }
+  #firstcol{
+    padding: 11.35rem !important;
   }

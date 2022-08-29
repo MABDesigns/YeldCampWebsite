@@ -14,7 +14,7 @@
 <body>  
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md">
+        <div class="col-md align-items-center" id="firstcol">
                 <nav class="navbar">
                     <a class="navbar-brand" href="#">
                         <img src="Assets/Logo.svg" alt="logo">
@@ -33,6 +33,11 @@
                     <button type="button" class="btn btn-dark">View Campgrounds</button>
                 </div>
                 <p id="partners-text">Partenered With:<br></p>
+                <div class="d-flex flex-row bd-highlight mb-3">
+                    <div class="p-2 bd-highlight"><img src="Assets/Airbnb.svg" alt="" srcset=""></div>
+                    <div class="p-2 bd-highlight"><img src="Assets/Booking.svg" alt="" srcset=""></div>
+                    <div class="p-2 bd-highlight"><img src="Assets/Plum Guide.svg" alt="" srcset=""></div>
+                </div>
         </div>
         <div class="col-md" id="imagecontent">test­­­­</div>
     </div>

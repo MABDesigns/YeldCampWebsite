@@ -1,9 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap');
 :root{
     --color-primary: #f9f6f1;
-    --color-secondary: ;
-    --color-third:  ;
+    --color-secondary: blue;
+    --color-third:  yellow;
     --color-dark: #000000;
-    --color-light:  ;
+    --color-light:  white;
     --color-muted: #777370;
+}
 
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    appearance: none;
+    border: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+html{
+    font-size: 14px;
+}
+body{
+    width: 100%;
+    height: 100%;
+    font-family: 'Archivo', sans-serif !important;
+    font-size: 0.88rem;
+    background: var(--color-primary) !important;
+    user-select: none;
+    overflow-x: hidden;
+}
+.navbar{
+    padding-top: 2rem !important;
+}
+h1{
+    font-size: 4.5rem !important;
+    font-weight: 700 !important;
+}
+.title{
+    padding-top: 100px;
+}
+p{
+    font-size: 1.45rem !important;
+    color: var(--color-muted) !important;
+}
+.list li{
+    padding-bottom: 1rem;
+    font-size: 1.4rem;
+    color: var(--color-muted);
+}
+.btn-dark{
+    --bs-btn-bg: #000 !important;
+    --bs-btn-padding-x: 1.8rem !important;
+    --bs-btn-padding-y: 1.2rem !important;
+}
+.btn{
+    font-size: 1.4rem !important;
+    color: var(--color-light) !important;
+    font-weight: 600 !important;
+}
+.button-content{
+    padding-top: .7rem;
+    padding-bottom: 3.2rem;
 }

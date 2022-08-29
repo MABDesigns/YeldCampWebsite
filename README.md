@@ -5,7 +5,7 @@ MABDesigns's aim is to provide you with real-world design templates that you can
 
 Free, all templates are high quality and will make great portfolio pieces.
 
-### Screenshots of JohnathanSpecter Template
+### Screenshots of YelpCamp Template
 
 ## Desktop View
 ![Settings Window](https://raw.github.com/MABDesigns/yelpcamp/main/Design/Landing%20Page%20-%20Desktop%20View.jpg)

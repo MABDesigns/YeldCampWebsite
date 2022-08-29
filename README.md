@@ -10,9 +10,9 @@ Free, all templates are high quality and will make great portfolio pieces.
 ## Desktop View
 ![Settings Window](https://raw.github.com/MABDesigns/yelpcamp/main/Design/Landing%20Page%20-%20Desktop%20View.jpg)
 ## Mobile View
-![Settings Window](https://raw.github.com/MABDesigns/Ondeck-landing-page/main/Design/Landing%20Page%20-%20Mobile%20View.jpg)
+![Settings Window](https://raw.github.com/MABDesigns/yelpcamp/main/Design/Landing%20Page%20-%20Mobile%20View.jpg)
 ## Tablet View
-![Settings Window](https://raw.github.com/MABDesigns/Ondeck-landing-page/main/Design/Landing%20Page%20-%20Tablet%20View.jpg)
+![Settings Window](https://raw.github.com/MABDesigns/yelpcamp/main/Design/Landing%20Page%20-%20Tablet%20View.jpg)
 ### Join our community on Discord
 
 If you want more real-time communication, you can visit our community on [Discord](https://discord.gg/5tJjhTuqfF). 

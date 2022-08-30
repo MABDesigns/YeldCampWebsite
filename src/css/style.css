@@ -90,4 +90,14 @@ p{
     color: inherit;
     font-size: 1.4rem;
   }
-  
+  .btn-login{
+    background: #000 !important;
+    padding: 1rem 0 1rem 0 !important;
+  }
+  .form-label{
+    font-size: 1.3rem !important;
+  }
+  .form-control{
+    background: var(--color-primary) !important;
+    padding: 1.5rem 3rem !important;
+  }

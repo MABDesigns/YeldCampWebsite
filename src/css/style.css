@@ -74,6 +74,21 @@ p{
         background-repeat: no-repeat !important;
         height: 40vh;
       }
+      
+      .quote-box{
+        top: 50% !important;
+        left: 85% !important;
+        transform: translate(-50%, -50%);
+        position: relative;
+      }
+  }
+  @media screen and (max-width: 570px){
+    .quote-box{
+        top: 60% !important;
+left: 56% !important;
+transform: translate(-50%, -50%) !important;
+position: relative !important;
+    }
   }
   #firstcol{
     padding: 7.40rem !important;
@@ -104,5 +119,20 @@ p{
   .text-muted{
     font-size: 1.4rem !important;
     padding-top: 1.5rem;
-    
   }
+  .quote-box{
+    top: 50%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    position: relative;
+  }
+  .quote p{
+    font-size: 1.8rem !important;
+    font-weight: 700 !important;
+    color: var(--color-dark) !important;
+  }
+  .loginform{
+    background: white !important; 
+    padding: 0 10rem 22rem 10rem;
+  }
+  

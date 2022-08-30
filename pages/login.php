@@ -14,7 +14,7 @@
 <body>
 <div class="container-fluid">
     <div class="row d-flex justify-content-center">
-        <div class="col-lg" style="background: white !important; padding: 0 10rem 0 10rem !important;">
+        <div class="col-lg" style="background: white !important; padding: 0 10rem 22rem 10rem !important;">
                 <nav class="navbar" id="navbar-login">
                     <a class="navbar-brand" href="#">
                         <img src="../Assets/Logo.svg" alt="logo">
@@ -34,6 +34,7 @@
                     </div>
                     <div class="d-grid">
                     <button type="submit" class="btn btn-login">Login</button>
+                    <div class="text-muted">Not a user yet? <a href="#">Create an account</a></div>
                     </div>
                 </form>
         </div>

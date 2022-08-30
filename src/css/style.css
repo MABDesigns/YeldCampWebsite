@@ -101,3 +101,8 @@ p{
     background: var(--color-primary) !important;
     padding: 1.5rem 3rem !important;
   }
+  .text-muted{
+    font-size: 1.4rem !important;
+    padding-top: 1.5rem;
+    
+  }

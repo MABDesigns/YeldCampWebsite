@@ -135,4 +135,21 @@ position: relative !important;
     background: white !important; 
     padding: 0 10rem 22rem 10rem;
   }
-  
+  .d-flex .navbar-text a{
+    text-decoration: none !important;
+    list-style: none !important;
+    padding-right: 1rem;
+
+  }
+  .navbar-text{
+    padding-top: 1.6rem !important;
+  }
+  .btn-create{
+      --bs-btn-bg: #000 !important;
+      --bs-btn-padding-x: 1.8rem !important;
+      --bs-btn-padding-y: 1.2rem !important;
+  }
+  .map-section img {
+    margin: auto;    
+    display: block;
+}
